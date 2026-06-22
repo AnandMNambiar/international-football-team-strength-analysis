@@ -39,7 +39,7 @@ International Football Results Dataset (1872–2026)
 
 ## Output
 
-![Team Strength Rankings](team_strength_top10.png)
+
 
 ## Author
 Anand M Nambiar
